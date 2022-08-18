@@ -1,6 +1,5 @@
 ## Portfolio 
-
-click ![here]("https://t-divya.github.io/portfolio/") to see what I'm building
+Click [here](https://t-divya.github.io/portfolio/) to see what I'm building
 
 I'm still developing this website.
 
