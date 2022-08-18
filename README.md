@@ -5,7 +5,7 @@ I'm still developing this website.
 
 Tech Used-
 
--Typescript
--React
--GSAP for animation
--CSS
+- Typescript
+- React
+- GSAP for animation
+- CSS
